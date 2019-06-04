@@ -1,0 +1,48 @@
+.bg-dark {
+	background-color: indigo !important;
+	/*font-weight: bold;*/
+}
+.navbar-brand img {
+	width: 40px;
+	margin-left: 0px;
+}
+div.navbar-nav a#nav-link {
+	color: gainsboro;
+}
+div.navbar-nav a#nav-link:hover {
+	color: #fff;
+}
+div.navbar-nav a.nav-link:active {
+	color: #fff;
+}
+div.dropdown a#navbarDropdownMenuLink {
+	color: gainsboro;
+	font-size: 16px;
+}
+
+div.dropdown a#navbarDropdownMenuLink:hover {
+	color: #fff;
+}
+button#download {
+	border:1px solid gold;
+	color: gold;
+	font-weight: bold;
+}
+section#content {
+	margin-top: 10px;
+}
+div#scroll {
+	overflow-y: scroll;
+	height: 470px;
+}
+div#scroll a {
+	color: dimgrey;
+	text-decoration: none;
+	margin-left: 10px;
+}
+div#scroll a:hover {
+	color: black;
+}
+form#search {
+	margin: 0.7rem;
+}
